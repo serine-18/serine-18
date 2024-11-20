@@ -1,6 +1,7 @@
 
 ## About Me
-Hey, I’m [Your Name]—a CS student on a coding journey, turning ideas into colorful, fun designs! 🎨🚀 I’m all about making tech more vibrant and user-friendly, whether it’s through web or mobile development. Building my life, one line of code at a time! 💻✨
+Hey, I’m Serine SOUAKRI .
+A CS student on a coding journey, turning ideas into colorful, fun designs! 🎨🚀 I’m all about making tech more vibrant and user-friendly, whether it’s through web or mobile development. Building my life, one line of code at a time! 💻✨
 
 ## Skills
 - **Frontend**: 
@@ -18,7 +19,7 @@ Hey, I’m [Your Name]—a CS student on a coding journey, turning ideas into co
 ## Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=serine-18&show_icons=true&count_private=true&hide=prs&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=serine-18&theme=violet-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/api?user=serine-18&theme=violet-dark)](https://git.io/streak-stats)
 
 ## Get in Touch
 - **Email**: [![Email](https://img.shields.io/badge/Email-your.email@example.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:serinesouakri@gmail.com)  

@@ -20,7 +20,7 @@ A CS student on a coding journey, turning ideas into colorful, fun designs! 🎨
 <a href="https://discord.gg/https://discord.com/users/serine3339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/serine3339" height="30" width="40" /></a>
 </p>
 ## Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,dart,figma,flutter,git,java,mysql,php,py,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

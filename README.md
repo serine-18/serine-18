@@ -19,9 +19,9 @@ A CS student on a coding journey, turning ideas into colorful, fun designs! 🎨
 ## Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=serine-18&show_icons=true&count_private=true&hide=prs&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=serine-18&theme=violet-dark)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=serine-18&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=serine-18&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=serine-18&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Get in Touch
 - **Email**: [![Email](https://img.shields.io/badge/Email-your.email@example.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:serinesouakri@gmail.com)  

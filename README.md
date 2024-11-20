@@ -19,7 +19,7 @@ A CS student on a coding journey, turning ideas into colorful, fun designs! 🎨
 <a href="https://instagram.com/https://www.instagram.com/serineskr/profilecard/?igsh=mwkwoxluy29undywmw%3d%3d&fbclid=iwzxh0bgnhzw0cmtaaar1gnmzay_jq2s3nv2xzbd0jm7n1fqcwvxzxur6xyw6l1as4p-s27rffiho_aem_nfrerdhpvl6zhvabvdz0xw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/serineskr/profilecard/?igsh=mwkwoxluy29undywmw%3d%3d&fbclid=iwzxh0bgnhzw0cmtaaar1gnmzay_jq2s3nv2xzbd0jm7n1fqcwvxzxur6xyw6l1as4p-s27rffiho_aem_nfrerdhpvl6zhvabvdz0xw" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/users/serine3339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/serine3339" height="30" width="40" /></a>
 </p>
-## Technologies & Tools
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### ✍️ Random Dev Quote

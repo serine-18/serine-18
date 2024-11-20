@@ -1,3 +1,7 @@
+
+## About Me
+Hey, I’m [Your Name]—a CS student on a coding journey, turning ideas into colorful, fun designs! 🎨🚀 I’m all about making tech more vibrant and user-friendly, whether it’s through web or mobile development. Building my life, one line of code at a time! 💻✨
+
 ## Skills
 - **Frontend**: React, Chakra UI, Flutter, HTML, CSS, JavaScript  
 - **Backend**: PHP, MySQL  
@@ -9,7 +13,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=serine-18&theme=radical)
 
 ## Get in Touch
-- **Email**: [YourEmail@example.com](mailto:serinesouakri@gmail.com)  
+- **Email**: [serinesouakri@gmail.com](mailto:serinesouakri@gmail.com)  
 
 ## Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Your%20Name-blue)](https://www.linkedin.com/in/serine-souakri-a02852330/)  

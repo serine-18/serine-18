@@ -18,7 +18,7 @@ Hey, I’m [Your Name]—a CS student on a coding journey, turning ideas into co
 ## Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=serine-18&show_icons=true&count_private=true&hide=prs&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=serine-18&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=serine-18&theme=violet-dark)](https://git.io/streak-stats)
 
 ## Get in Touch
 - **Email**: [![Email](https://img.shields.io/badge/Email-your.email@example.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:serinesouakri@gmail.com)  

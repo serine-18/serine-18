@@ -21,6 +21,7 @@ A CS student on a coding journey, turning ideas into colorful, fun designs! 🎨
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/api?user=serine-18&theme=violet-dark)](https://git.io/streak-stats)
 
+
 ## Get in Touch
 - **Email**: [![Email](https://img.shields.io/badge/Email-your.email@example.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:serinesouakri@gmail.com)  
 

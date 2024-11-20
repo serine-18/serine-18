@@ -21,6 +21,7 @@ A CS student on a coding journey, turning ideas into colorful, fun designs! 🎨
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=serine-18&theme=violet-dark)](https://git.io/streak-stats)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=serine-18&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Get in Touch
 - **Email**: [![Email](https://img.shields.io/badge/Email-your.email@example.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:serinesouakri@gmail.com)  
@@ -38,5 +39,12 @@ A CS student on a coding journey, turning ideas into colorful, fun designs! 🎨
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=serine-18&icon=0&color=10)](https://visitcount.itsvg.in)
+
 
 Looking forward to connecting and collaborating!  

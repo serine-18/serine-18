@@ -32,3 +32,4 @@ A CS student on a coding journey, turning ideas into colorful, fun designs! 🎨
 [![](https://visitcount.itsvg.in/api?id=serine-18&icon=0&color=10)](https://visitcount.itsvg.in)
 
 
+![image](https://github.com/user-attachments/assets/5119f35d-eab7-4a31-a949-942f4fd303da)

@@ -19,7 +19,7 @@ A CS student on a coding journey, turning ideas into colorful, fun designs! 🎨
 ## Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=serine-18&show_icons=true&count_private=true&hide=prs&theme=radical)
 
-[![](https://github-readme-streak-stats.herokuapp.com/demo/?user=&theme=rose&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=ba)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=serine-18&theme=violet-dark)](https://git.io/streak-stats)
 
 
 ## Get in Touch
